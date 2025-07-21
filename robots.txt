@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://mis3085.github.io/docs-ccm-comork/sitemap.xml
+Sitemap: https://smp.ccm-comork.com/sitemap.xml
