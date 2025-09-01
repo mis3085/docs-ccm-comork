@@ -20,7 +20,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d0%b4%d0%be%d0%bb%d0%b3%d0%be%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%bd%d0%be%d0%b5-%d0%bf%d0%b0%d1%80%d1%82%d0%bd%d1%91%d1%80%d1%81%d1%82%d0%b2%d0%be-%d0%b8-%d1%80%d0%b0%d0%b7%d0%b2%d0%b8%d1%82%d0%b8%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b9-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d0%b4%d0%be%d0%bb%d0%b3%d0%be%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%bd%d0%be%d0%b5-%d0%bf%d0%b0%d1%80%d1%82%d0%bd%d1%91%d1%80%d1%81%d1%82%d0%b2%d0%be-%d0%b8-%d1%80%d0%b0%d0%b7%d0%b2%d0%b8%d1%82%d0%b8%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b9-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -48,15 +49,12 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d1%82%d0%be%d1%87%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d0%b8-%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d0%b2-%d1%86%d0%b8%d0%bb%d0%b8%d0%bd%d0%b4%d1%80%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%bc-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b8&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d1%82%d0%be%d1%87%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d0%b8-%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d0%b2-%d1%86%d0%b8%d0%bb%d0%b8%d0%bd%d0%b4%d1%80%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%bc-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b8&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;GO-354 CNC цилиндрический шлифовальный станок разработан для выполнения как погружного, так и углового шлифования, поддерживая широкий спектр сложных и разнообразных шлифовальных задач. Его конструкция позволяет выполнять несколько операций шлифования в одной наладке, сокращая время обработки и повышая производительность — особенно для мелких и точных деталей. Для обработки крупных заготовок рассмотрите &lt;a
-  href=&#34;https://www.ccm-comork.com/en/product/GO-356.html&#34;
-    target=&#34;_blank&#34;
-  &gt;GO-356 CNC цилиндрический шлифовальный станок&lt;/a&gt;
-.&lt;/p&gt;</description>
+&lt;p&gt;GO-354 CNC цилиндрический шлифовальный станок разработан для выполнения как погружного, так и углового шлифования, поддерживая широкий спектр сложных и разнообразных шлифовальных задач. Его конструкция позволяет выполнять несколько операций шлифования в одной наладке, сокращая время обработки и повышая производительность — особенно для мелких и точных деталей. Для обработки крупных заготовок рассмотрите &lt;a href=&#34;https://www.ccm-comork.com/en/product/GO-356.html&#34; target=&#34;_blank&#34;&gt;GO-356 CNC цилиндрический шлифовальный станок&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     
@@ -71,7 +69,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d1%8d%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82%d0%b8%d0%b7%d0%b0-%d0%b8-%d0%b2%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d0%b2-%d0%bf%d1%80%d0%be%d0%b8%d0%b7%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%b5-%d1%81%d0%bf%d0%b5%d1%86%d0%b8%d0%b0%d0%bb%d0%b8%d0%b7%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%bd%d1%8b%d1%85-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d1%85-%d1%81%d1%82%d0%b0%d0%bd%d0%ba%d0%be%d0%b2&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d1%8d%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82%d0%b8%d0%b7%d0%b0-%d0%b8-%d0%b2%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d0%b2-%d0%bf%d1%80%d0%be%d0%b8%d0%b7%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%b5-%d1%81%d0%bf%d0%b5%d1%86%d0%b8%d0%b0%d0%bb%d0%b8%d0%b7%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%bd%d1%8b%d1%85-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d1%85-%d1%81%d1%82%d0%b0%d0%bd%d0%ba%d0%be%d0%b2&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -90,7 +89,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d0%b8%d0%bd%d0%bd%d0%be%d0%b2%d0%b0%d1%86%d0%b8%d0%b8-%d0%b2-%d1%86%d0%b8%d0%bb%d0%b8%d0%bd%d0%b4%d1%80%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b9-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%ba%d0%b5-%d1%81%d1%80%d0%b5%d0%b4%d0%bd%d0%b8%d1%85-%d0%b7%d0%b0%d0%b3%d0%be%d1%82%d0%be%d0%b2%d0%be%d0%ba&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d0%b8%d0%bd%d0%bd%d0%be%d0%b2%d0%b0%d1%86%d0%b8%d0%b8-%d0%b2-%d1%86%d0%b8%d0%bb%d0%b8%d0%bd%d0%b4%d1%80%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b9-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%ba%d0%b5-%d1%81%d1%80%d0%b5%d0%b4%d0%bd%d0%b8%d1%85-%d0%b7%d0%b0%d0%b3%d0%be%d1%82%d0%be%d0%b2%d0%be%d0%ba&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -118,7 +118,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d0%be%d0%bf%d1%8b%d1%82-%d1%83%d1%87%d0%b0%d1%81%d1%82%d0%b8%d1%8f-%d0%b2-timtos-x-tmts-2022&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d0%be%d0%bf%d1%8b%d1%82-%d1%83%d1%87%d0%b0%d1%81%d1%82%d0%b8%d1%8f-%d0%b2-timtos-x-tmts-2022&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -137,7 +138,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d0%bf%d0%b5%d1%80%d0%b5%d0%b4%d0%be%d0%b2%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d1%88%d0%bf%d0%b8%d0%bd%d0%b4%d0%b5%d0%bb%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%b2%d1%8b%d1%81%d0%be%d0%ba%d0%be%d1%81%d0%ba%d0%be%d1%80%d0%be%d1%81%d1%82%d0%bd%d0%be%d0%b9-%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b8&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d0%bf%d0%b5%d1%80%d0%b5%d0%b4%d0%be%d0%b2%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d1%88%d0%bf%d0%b8%d0%bd%d0%b4%d0%b5%d0%bb%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%b2%d1%8b%d1%81%d0%be%d0%ba%d0%be%d1%81%d0%ba%d0%be%d1%80%d0%be%d1%81%d1%82%d0%bd%d0%be%d0%b9-%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b8&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -156,7 +158,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d0%bf%d0%b5%d1%80%d0%b5%d0%b4%d0%be%d0%b2%d0%be%d0%b5-cnc-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2%d0%bd%d1%83%d1%82%d1%80%d0%b5%d0%bd%d0%bd%d0%b5%d0%b3%d0%be-%d0%b8-%d0%bd%d0%b0%d1%80%d1%83%d0%b6%d0%bd%d0%be%d0%b3%d0%be-%d0%b4%d0%b8%d0%b0%d0%bc%d0%b5%d1%82%d1%80%d0%b0-%d0%b4%d0%bb%d1%8f-%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d1%85-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d0%b8%d0%b9&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d0%bf%d0%b5%d1%80%d0%b5%d0%b4%d0%be%d0%b2%d0%be%d0%b5-cnc-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2%d0%bd%d1%83%d1%82%d1%80%d0%b5%d0%bd%d0%bd%d0%b5%d0%b3%d0%be-%d0%b8-%d0%bd%d0%b0%d1%80%d1%83%d0%b6%d0%bd%d0%be%d0%b3%d0%be-%d0%b4%d0%b8%d0%b0%d0%bc%d0%b5%d1%82%d1%80%d0%b0-%d0%b4%d0%bb%d1%8f-%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d1%85-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d0%b8%d0%b9&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -175,7 +178,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d0%bf%d0%b5%d1%80%d0%b5%d0%b4%d0%be%d0%b2%d1%8b%d0%b5-%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%ba%d0%b8-%d0%bd%d0%b0-%d1%87%d0%bf%d1%83-%d0%b4%d0%bb%d1%8f-%d0%bc%d0%bd%d0%be%d0%b3%d0%be%d1%81%d1%82%d0%be%d1%80%d0%be%d0%bd%d0%bd%d0%b5%d0%b9-%d0%bf%d1%80%d0%b5%d1%86%d0%b8%d0%b7%d0%b8%d0%be%d0%bd%d0%bd%d0%be%d0%b9-%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b8&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d0%bf%d0%b5%d1%80%d0%b5%d0%b4%d0%be%d0%b2%d1%8b%d0%b5-%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%ba%d0%b8-%d0%bd%d0%b0-%d1%87%d0%bf%d1%83-%d0%b4%d0%bb%d1%8f-%d0%bc%d0%bd%d0%be%d0%b3%d0%be%d1%81%d1%82%d0%be%d1%80%d0%be%d0%bd%d0%bd%d0%b5%d0%b9-%d0%bf%d1%80%d0%b5%d1%86%d0%b8%d0%b7%d0%b8%d0%be%d0%bd%d0%bd%d0%be%d0%b9-%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b8&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -194,7 +198,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%ba%d0%be%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d0%b8&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%ba%d0%be%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d0%b8&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -213,7 +218,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d0%b2%d0%bd%d0%b5%d0%b4%d1%80%d0%b5%d0%bd%d0%b8%d0%b5-%d1%86%d0%b8%d1%80%d0%ba%d1%83%d0%bb%d1%8f%d1%80%d0%bd%d0%be%d0%b9-%d1%8d%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b8-%d0%b2-%d0%bf%d1%80%d0%b5%d1%86%d0%b8%d0%b7%d0%b8%d0%be%d0%bd%d0%bd%d0%be%d0%b5-%d0%be%d0%b1%d0%be%d1%80%d1%83%d0%b4%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d0%b2%d0%bd%d0%b5%d0%b4%d1%80%d0%b5%d0%bd%d0%b8%d0%b5-%d1%86%d0%b8%d1%80%d0%ba%d1%83%d0%bb%d1%8f%d1%80%d0%bd%d0%be%d0%b9-%d1%8d%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b8-%d0%b2-%d0%bf%d1%80%d0%b5%d1%86%d0%b8%d0%b7%d0%b8%d0%be%d0%bd%d0%bd%d0%be%d0%b5-%d0%be%d0%b1%d0%be%d1%80%d1%83%d0%b4%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -232,7 +238,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d0%be%d0%b1%d0%bd%d0%be%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d0%b5%d0%b2%d1%8b%d1%85-%d1%81%d0%be%d0%b1%d1%8b%d1%82%d0%b8%d0%b9-%d0%b8-%d0%b8%d0%bd%d0%bd%d0%be%d0%b2%d0%b0%d1%86%d0%b8%d0%b9&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d0%be%d0%b1%d0%bd%d0%be%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d0%b5%d0%b2%d1%8b%d1%85-%d1%81%d0%be%d0%b1%d1%8b%d1%82%d0%b8%d0%b9-%d0%b8-%d0%b8%d0%bd%d0%bd%d0%be%d0%b2%d0%b0%d1%86%d0%b8%d0%b9&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -251,7 +258,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d1%8b%d0%b5-%d0%bc%d0%be%d0%bc%d0%b5%d0%bd%d1%82%d1%8b-%d0%b8%d0%b7-%d0%bf%d0%be%d1%81%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8%d1%85-%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d0%b5%d0%b9-comork&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d1%8b%d0%b5-%d0%bc%d0%be%d0%bc%d0%b5%d0%bd%d1%82%d1%8b-%d0%b8%d0%b7-%d0%bf%d0%be%d1%81%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8%d1%85-%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d0%b5%d0%b9-comork&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -270,7 +278,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d0%b2%d0%b7%d0%b3%d0%bb%d1%8f%d0%b4-%d1%81-%d0%bf%d0%be%d0%b7%d0%b8%d1%86%d0%b8%d0%b8-%d0%bf%d1%80%d0%be%d0%b8%d0%b7%d0%b2%d0%be%d0%b4%d0%b8%d1%82%d0%b5%d0%bb%d1%8f-%d0%b8-%d0%ba%d0%be%d0%bd%d0%b5%d1%87%d0%bd%d0%be%d0%b3%d0%be-%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8f&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d0%b2%d0%b7%d0%b3%d0%bb%d1%8f%d0%b4-%d1%81-%d0%bf%d0%be%d0%b7%d0%b8%d1%86%d0%b8%d0%b8-%d0%bf%d1%80%d0%be%d0%b8%d0%b7%d0%b2%d0%be%d0%b4%d0%b8%d1%82%d0%b5%d0%bb%d1%8f-%d0%b8-%d0%ba%d0%be%d0%bd%d0%b5%d1%87%d0%bd%d0%be%d0%b3%d0%be-%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8f&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -289,7 +298,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d1%82%d0%be%d1%87%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d0%b8-%d0%b2%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d0%b2%d0%bd%d1%83%d1%82%d1%80%d0%b5%d0%bd%d0%bd%d0%b5%d0%b9-%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b8-%d0%b8-%d0%b8%d0%bd%d1%81%d0%bf%d0%b5%d0%ba%d1%86%d0%b8%d0%b8&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d1%82%d0%be%d1%87%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d0%b8-%d0%b2%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d0%b2%d0%bd%d1%83%d1%82%d1%80%d0%b5%d0%bd%d0%bd%d0%b5%d0%b9-%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b8-%d0%b8-%d0%b8%d0%bd%d1%81%d0%bf%d0%b5%d0%ba%d1%86%d0%b8%d0%b8&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -308,7 +318,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d1%8d%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82%d0%b8%d0%b7%d0%b0-%d0%b2-%d0%be%d0%b1%d0%bb%d0%b0%d1%81%d1%82%d0%b8-%d0%bf%d1%80%d0%b5%d1%86%d0%b8%d0%b7%d0%b8%d0%be%d0%bd%d0%bd%d1%8b%d1%85-%d0%b4%d0%b5%d1%82%d0%b0%d0%bb%d0%b5%d0%b9-%d0%b4%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%bc%d1%8b%d1%88%d0%bb%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d0%b8%d0%b9&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d1%8d%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82%d0%b8%d0%b7%d0%b0-%d0%b2-%d0%be%d0%b1%d0%bb%d0%b0%d1%81%d1%82%d0%b8-%d0%bf%d1%80%d0%b5%d1%86%d0%b8%d0%b7%d0%b8%d0%be%d0%bd%d0%bd%d1%8b%d1%85-%d0%b4%d0%b5%d1%82%d0%b0%d0%bb%d0%b5%d0%b9-%d0%b4%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%bc%d1%8b%d1%88%d0%bb%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d0%b8%d0%b9&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -327,7 +338,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d0%bd%d0%b0%d1%88-%d0%bf%d0%be%d0%b4%d1%85%d0%be%d0%b4-%d0%ba-%d1%80%d0%be%d1%81%d1%82%d1%83-%d0%b8-%d1%81%d0%be%d0%b2%d0%b5%d1%80%d1%88%d0%b5%d0%bd%d1%81%d1%82%d0%b2%d1%83&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d0%bd%d0%b0%d1%88-%d0%bf%d0%be%d0%b4%d1%85%d0%be%d0%b4-%d0%ba-%d1%80%d0%be%d1%81%d1%82%d1%83-%d0%b8-%d1%81%d0%be%d0%b2%d0%b5%d1%80%d1%88%d0%b5%d0%bd%d1%81%d1%82%d0%b2%d1%83&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -347,7 +359,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d0%bf%d0%b5%d1%80%d0%b5%d0%b4%d0%be%d0%b2%d0%b0%d1%8f-%d1%87%d0%bf%d1%83-%d1%86%d0%b8%d0%bb%d0%b8%d0%bd%d0%b4%d1%80%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b0%d1%8f-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%ba%d0%b0-%d0%b4%d0%bb%d1%8f-%d1%82%d1%80%d0%b5%d0%b1%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d1%8b%d1%85-%d0%b7%d0%b0%d0%b4%d0%b0%d1%87&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d0%bf%d0%b5%d1%80%d0%b5%d0%b4%d0%be%d0%b2%d0%b0%d1%8f-%d1%87%d0%bf%d1%83-%d1%86%d0%b8%d0%bb%d0%b8%d0%bd%d0%b4%d1%80%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b0%d1%8f-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%ba%d0%b0-%d0%b4%d0%bb%d1%8f-%d1%82%d1%80%d0%b5%d0%b1%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d1%8b%d1%85-%d0%b7%d0%b0%d0%b4%d0%b0%d1%87&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -366,7 +379,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d0%bf%d1%80%d0%be%d0%b4%d0%b2%d0%b8%d0%bd%d1%83%d1%82%d1%8b%d0%b5-%d0%b2%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be%d1%81%d1%82%d0%b8-cnc-%d0%b2%d0%bd%d1%83%d1%82%d1%80%d0%b5%d0%bd%d0%bd%d0%b5%d0%b3%d0%be-%d0%b8-%d0%bd%d0%b0%d1%80%d1%83%d0%b6%d0%bd%d0%be%d0%b3%d0%be-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be-%d0%bf%d1%80%d0%be%d0%b8%d0%b7%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%b0&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d0%bf%d1%80%d0%be%d0%b4%d0%b2%d0%b8%d0%bd%d1%83%d1%82%d1%8b%d0%b5-%d0%b2%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be%d1%81%d1%82%d0%b8-cnc-%d0%b2%d0%bd%d1%83%d1%82%d1%80%d0%b5%d0%bd%d0%bd%d0%b5%d0%b3%d0%be-%d0%b8-%d0%bd%d0%b0%d1%80%d1%83%d0%b6%d0%bd%d0%be%d0%b3%d0%be-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be-%d0%bf%d1%80%d0%be%d0%b8%d0%b7%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%b0&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -385,7 +399,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d0%b2%d1%8b%d1%81%d0%be%d0%ba%d0%be%d1%81%d0%ba%d0%be%d1%80%d0%be%d1%81%d1%82%d0%bd%d1%8b%d0%b5-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d1%88%d0%bf%d0%b8%d0%bd%d0%b4%d0%b5%d0%bb%d0%b8-%d1%85%d0%b0%d1%80%d0%b0%d0%ba%d1%82%d0%b5%d1%80%d0%b8%d1%81%d1%82%d0%b8%d0%ba%d0%b8-%d0%b8-%d1%81%d0%bf%d0%b5%d1%86%d0%b8%d1%84%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d0%b8&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d0%b2%d1%8b%d1%81%d0%be%d0%ba%d0%be%d1%81%d0%ba%d0%be%d1%80%d0%be%d1%81%d1%82%d0%bd%d1%8b%d0%b5-%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d1%88%d0%bf%d0%b8%d0%bd%d0%b4%d0%b5%d0%bb%d0%b8-%d1%85%d0%b0%d1%80%d0%b0%d0%ba%d1%82%d0%b5%d1%80%d0%b8%d1%81%d1%82%d0%b8%d0%ba%d0%b8-%d0%b8-%d1%81%d0%bf%d0%b5%d1%86%d0%b8%d1%84%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d0%b8&#34; aria-label=&#34;Якорь&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;

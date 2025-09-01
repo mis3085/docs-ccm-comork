@@ -20,7 +20,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#partenariat-durable-et-progr%c3%a8s-dans-la-technologie-de-meulage&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#partenariat-durable-et-progr%c3%a8s-dans-la-technologie-de-meulage&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -48,7 +49,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#points-forts-des-derni%c3%a8res-actualit%c3%a9s-de-comork&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#points-forts-des-derni%c3%a8res-actualit%c3%a9s-de-comork&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -67,7 +69,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#mise-%c3%a0-jour-des-%c3%a9v%c3%a9nements-et-innovations-industrielles&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#mise-%c3%a0-jour-des-%c3%a9v%c3%a9nements-et-innovations-industrielles&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -86,7 +89,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#perspectives-%c3%a0-la-fois-du-fabricant-et-de-lutilisateur-final&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#perspectives-%c3%a0-la-fois-du-fabricant-et-de-lutilisateur-final&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -105,7 +109,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#broches-de-meulage-%c3%a0-grande-vitesse--performances-et-sp%c3%a9cifications&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#broches-de-meulage-%c3%a0-grande-vitesse--performances-et-sp%c3%a9cifications&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -124,7 +129,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#technologie-avanc%c3%a9e-de-broche-pour-usinage-%c3%a0-grande-vitesse&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#technologie-avanc%c3%a9e-de-broche-pour-usinage-%c3%a0-grande-vitesse&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -143,7 +149,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pr%c3%a9sentation-de-lentreprise&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#pr%c3%a9sentation-de-lentreprise&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -162,7 +169,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pr%c3%a9cision-et-capacit%c3%a9-dans-lusinage-et-linspection-en-interne&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#pr%c3%a9cision-et-capacit%c3%a9-dans-lusinage-et-linspection-en-interne&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -181,7 +189,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#adopter-l%c3%a9conomie-circulaire-dans-les-machines-de-pr%c3%a9cision&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#adopter-l%c3%a9conomie-circulaire-dans-les-machines-de-pr%c3%a9cision&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -200,7 +209,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#expertise-en-pi%c3%a8ces-de-pr%c3%a9cision-pour-applications-industrielles&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#expertise-en-pi%c3%a8ces-de-pr%c3%a9cision-pour-applications-industrielles&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -219,7 +229,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#capacit%c3%a9s-avanc%c3%a9es-de-rectification-cnc-id--od-pour-une-production-polyvalente&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#capacit%c3%a9s-avanc%c3%a9es-de-rectification-cnc-id--od-pour-une-production-polyvalente&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -238,7 +249,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#rectification-cylindrique-cnc-avanc%c3%a9e-pour-applications-exigeantes&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#rectification-cylindrique-cnc-avanc%c3%a9e-pour-applications-exigeantes&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -257,7 +269,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#expertise-et-capacit%c3%a9s-dans-la-fabrication-de-machines-de-rectification-personnalis%c3%a9es&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#expertise-et-capacit%c3%a9s-dans-la-fabrication-de-machines-de-rectification-personnalis%c3%a9es&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -276,7 +289,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#notre-approche-de-la-croissance-et-de-lexcellence&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#notre-approche-de-la-croissance-et-de-lexcellence&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -296,15 +310,12 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pr%c3%a9cision-et-polyvalence-dans-le-rectifiage-cylindrique&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#pr%c3%a9cision-et-polyvalence-dans-le-rectifiage-cylindrique&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;La rectifieuse cylindrique CNC GO-354 est conçue pour offrir à la fois le rectifiage en plongée et angulaire, supportant une large gamme de tâches de rectification complexes et variées. Sa conception permet plusieurs opérations de rectification en une seule configuration, réduisant le temps d&amp;rsquo;usinage et augmentant la productivité — particulièrement pour les composants petits et de précision. Pour les pièces plus grandes, considérez la &lt;a
-  href=&#34;https://www.ccm-comork.com/en/product/GO-356.html&#34;
-    target=&#34;_blank&#34;
-  &gt;rectifieuse cylindrique CNC GO-356&lt;/a&gt;
-.&lt;/p&gt;</description>
+&lt;p&gt;La rectifieuse cylindrique CNC GO-354 est conçue pour offrir à la fois le rectifiage en plongée et angulaire, supportant une large gamme de tâches de rectification complexes et variées. Sa conception permet plusieurs opérations de rectification en une seule configuration, réduisant le temps d&amp;rsquo;usinage et augmentant la productivité — particulièrement pour les composants petits et de précision. Pour les pièces plus grandes, considérez la &lt;a href=&#34;https://www.ccm-comork.com/en/product/GO-356.html&#34; target=&#34;_blank&#34;&gt;rectifieuse cylindrique CNC GO-356&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     
@@ -319,7 +330,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#rectification-cnc-avanc%c3%a9e-pour-un-travail-de-pr%c3%a9cision-multifacette&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#rectification-cnc-avanc%c3%a9e-pour-un-travail-de-pr%c3%a9cision-multifacette&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -338,7 +350,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#rectification-cnc-avanc%c3%a9e-idod-pour-applications-polyvalentes&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#rectification-cnc-avanc%c3%a9e-idod-pour-applications-polyvalentes&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -357,7 +370,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#innovations-dans-le-meulage-cylindrique-pour-pi%c3%a8ces-de-taille-moyenne&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#innovations-dans-le-meulage-cylindrique-pour-pi%c3%a8ces-de-taille-moyenne&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -385,7 +399,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#exp%c3%a9rience-%c3%a0-timtos-x-tmts-2022&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exp%c3%a9rience-%c3%a0-timtos-x-tmts-2022&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
